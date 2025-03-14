@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a54873bc517510049839e67ed697c6cc, type: 3}
+  m_Name: RarityParameters
+  m_EditorClassIdentifier: 
+  CommonFrameImg: {fileID: 21300000, guid: e6eea4f7cbb9f46f79c0fe06180fa5b3, type: 3}
+  CommonColor: {r: 0, g: 1, b: 0, a: 1}
+  RareFrameImg: {fileID: 21300000, guid: 35d7e6588f1f34db1b9a5e62f4efdf77, type: 3}
+  RareColor: {r: 0, g: 0, b: 1, a: 1}
+  EpicFrameImg: {fileID: 21300000, guid: 10d23572713d041c596abf5c00be11dc, type: 3}
+  EpicColor: {r: 1, g: 0, b: 1, a: 1}
+  MythicalFrameImg: {fileID: 21300000, guid: c7ade68a31f1d4e12a57617409b6ee8a, type: 3}
+  MythicalColor: {r: 1, g: 0, b: 0, a: 1}
+  LegendaryFrameImg: {fileID: 21300000, guid: 84063999b9e1741d099c1d8f7bbc0f7a, type: 3}
+  LegendaryColor: {r: 1, g: 0.49803922, b: 0, a: 1}

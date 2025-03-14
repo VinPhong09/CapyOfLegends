@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6831dc6926b28da42a305f3310b90f2c, type: 3}
+  m_Name: VikingHelmet
+  m_EditorClassIdentifier: 
+  Label: Viking Helmet
+  Icon: {fileID: 21300000, guid: fe35063b5fdece744bdb7cb79e5d22b9, type: 3}
+  Value: 30
+  IsEquipped: 0
+  IsLocked: 0
+  Level: 1
+  Progress: 0
+  MaxProgress: 5
+  RarityType: 1
+  Buffs: []

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e6f75f4770f595a40968fc8b8015f080
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _enemyParameters: {instanceID: 0}
+  - _animator: {instanceID: 0}
+  - _deathEffect: {instanceID: 0}
+  - _hpBar: {instanceID: 0}
+  - _damageInfo: {instanceID: 0}
+  - _bossParameters: {instanceID: 0}
+  - _bossAnimator: {instanceID: 0}
+  - _damageInfo: {fileID: 3958867839266513889, guid: 3bbc3d2f43097234db3885a4329931c1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

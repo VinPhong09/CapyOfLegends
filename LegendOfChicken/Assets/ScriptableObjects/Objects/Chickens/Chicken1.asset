@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d329f16d4be604f931a72f2f0b3dbe, type: 3}
+  m_Name: Chicken1
+  m_EditorClassIdentifier: 
+  Name: Chicken 1
+  Health: 110
+  Damage: 15
+  AttackSpeed: 1.5
+  CriticalHitChance: 20
+  CriticalHitDamage: 80
+  HealthRecovery: 2
+  DoubleHitChance: 1
+  TripleHitChance: 1
+  BaseHealth: 110
+  BaseDamage: 15
+  BaseAttackSpeed: 1.5
+  BaseCriticalHitChance: 20
+  BaseCriticalHitDamage: 80
+  BaseHealthRecovery: 2
+  BaseDoubleHitChance: 1
+  BaseTripleHitChance: 1
+  _index: 1
+  _level: 1
+  _isLocked: 0
+  _icon: {fileID: 21300000, guid: 91b62c4c63cb34249842d949137e9f83, type: 3}
+  _chickenRenderView: {fileID: 8600000, guid: dad160cb054552f4fb8af20a73edb068, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: d64db380618943d408ea1fdf54e0fa62, type: 2}
+  - {fileID: 11400000, guid: 6386ff65fbf4e144f98326fd9ef22759, type: 2}
+  - {fileID: 11400000, guid: 29ac0bd120ca7fa458781975260eb5eb, type: 2}

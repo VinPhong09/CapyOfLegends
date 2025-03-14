@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d17638d9d2173345afeb2c731c88eab, type: 3}
+  m_Name: Lightning
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -1607929954, guid: 9471366adbe0e5a42b694ee5ea0ba323, type: 3}
+  ProcessDuraction: 2
+  RecoveryDuraction: 6
+  Description: Example
+  IsLocked: 0
+  IsSelected: 0
+  ActiveSkillBehaviour: {fileID: -7900770989607160954, guid: ff784424530a148478edb00b72e2c1ce, type: 3}

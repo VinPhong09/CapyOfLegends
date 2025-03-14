@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2f4ca488c06c384d9060722269d1ddd, type: 3}
+  m_Name: Minotaur
+  m_EditorClassIdentifier: 
+  Name: 
+  Health: 200
+  Damage: 10
+  AttackSpeed: 1
+  CriticalHitChance: 20
+  CriticalHitDamage: 80
+  HealthRecovery: 1
+  DoubleHitChance: 1
+  TripleHitChance: 1
+  BaseHealth: 200
+  BaseDamage: 10
+  BaseAttackSpeed: 1
+  BaseCriticalHitChance: 20
+  BaseCriticalHitDamage: 80
+  BaseHealthRecovery: 1
+  BaseDoubleHitChance: 1
+  BaseTripleHitChance: 1

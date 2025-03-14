@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d17638d9d2173345afeb2c731c88eab, type: 3}
+  m_Name: Meteorite
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 18532858, guid: 9471366adbe0e5a42b694ee5ea0ba323, type: 3}
+  ProcessDuraction: 3
+  RecoveryDuraction: 5
+  Description: 3 meteorites fall from the sky
+  IsLocked: 0
+  IsSelected: 0
+  ActiveSkillBehaviour: {fileID: 2901211183939999214, guid: 0baef6097ed2e834c9c89ad3caf4dbf6, type: 3}

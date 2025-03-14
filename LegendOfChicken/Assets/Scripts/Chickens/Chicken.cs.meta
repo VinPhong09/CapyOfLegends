@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b9fe860ce38e5ab449ed0f4ee3885d08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _scrollEnhancesElement: {instanceID: 0}
+  - _chickenParams: {instanceID: 0}
+  - _enhanceElementParameters: {instanceID: 0}
+  - _enhanceEffect: {instanceID: 0}
+  - _featherEffect: {instanceID: 0}
+  - _damageInfo: {fileID: 3958867839266513889, guid: 3bbc3d2f43097234db3885a4329931c1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 683e2a15b2574ce4d9d86e52f304b71b, type: 3}
+  m_Name: Health
+  m_EditorClassIdentifier: 
+  Enhanced:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 8073363334942979394, guid: 29870bd5d7d82484b8bf6da80706f707, type: 3}
+        m_TargetAssemblyTypeName: Chicken, Assembly-CSharp
+        m_MethodName: OnEnhanceHealth
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  _icon: {fileID: 700768514, guid: 3a71f0ad2adf760458606bdaa106e709, type: 3}
+  _label: Health
+  _level: 1
+  _value: 120
+  _cost: 100
+  _baseCost: 100
