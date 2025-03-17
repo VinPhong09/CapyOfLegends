@@ -764,6 +764,10 @@
       <Project>{29a516fa-eb67-2c33-8eef-405a437ad454}</Project>
       <Name>Unity.AdaptivePerformance.Simulator.Extension</Name>
     </ProjectReference>
+    <ProjectReference Include="spine-csharp.csproj">
+      <Project>{04d5ec6c-e5d7-c099-abad-5560b682eb04}</Project>
+      <Name>spine-csharp</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.2D.PixelPerfect.Editor.csproj">
       <Project>{dc1ca585-5a72-75e3-a988-cf8556fa561f}</Project>
       <Name>Unity.2D.PixelPerfect.Editor</Name>
@@ -804,6 +808,10 @@
       <Project>{5127a489-640f-1684-934d-e7eed46e36aa}</Project>
       <Name>Unity.2D.PixelPerfect</Name>
     </ProjectReference>
+    <ProjectReference Include="spine-unity.csproj">
+      <Project>{ab14ef00-c40a-7c6d-1f11-1f0711d882ec}</Project>
+      <Name>spine-unity</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.csproj">
       <Project>{e1459291-f613-9aab-a04b-9702242d564d}</Project>
       <Name>Unity.TextMeshPro</Name>
@@ -820,13 +828,13 @@
       <Project>{401eddab-ccd4-0dc2-1f61-64d7ea86bede}</Project>
       <Name>Unity.VSCode.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Notifications.Unified.csproj">
-      <Project>{5a49fede-caa1-90ce-831a-906e70f6a6ba}</Project>
-      <Name>Unity.Notifications.Unified</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.Profiling.Core.csproj">
       <Project>{59769c15-d93c-edd3-c150-6177fcd69f5a}</Project>
       <Name>Unity.Profiling.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Notifications.Unified.csproj">
+      <Project>{5a49fede-caa1-90ce-831a-906e70f6a6ba}</Project>
+      <Name>Unity.Notifications.Unified</Name>
     </ProjectReference>
     <ProjectReference Include="PsdPlugin.csproj">
       <Project>{2c51e7c8-7403-3271-d801-39e3ba9a1921}</Project>
@@ -935,6 +943,10 @@
     <ProjectReference Include="Unity.Mathematics.csproj">
       <Project>{5194078d-56f1-96ed-1217-0cf4ec86c897}</Project>
       <Name>Unity.Mathematics</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity-editor.csproj">
+      <Project>{6ddfb99b-0ebf-aa3c-fc32-7bbc32bebef8}</Project>
+      <Name>spine-unity-editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Common.Editor.csproj">
       <Project>{7894246b-8340-f40f-bd50-8dcd4f4682cd}</Project>

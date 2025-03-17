@@ -11,27 +11,27 @@ public class ChickenAnimator : MonoBehaviour
     private readonly int RunLabel = Animator.StringToHash("Run");
     private readonly int AttackLabel = Animator.StringToHash("Attack");
 
-    public void OnPlayAttackAnimation()
+    public virtual void OnPlayAttackAnimation()
     {
         _animator.SetTrigger(AttackLabel);
     }
 
-    public void OnPlaySelectedAnimation()
+    public virtual void OnPlaySelectedAnimation()
     {
         _selectPointer.SetActive(true);
     }
 
-    public void OnStopSelectedAnimation()
+    public virtual void OnStopSelectedAnimation()
     {
         _selectPointer.SetActive(false);
     }
 
-    public void OnPlayRunAnimation()
+    public virtual void OnPlayRunAnimation()
     {
         _animator.SetBool(RunLabel, true);
     }
 
-    public void OnPlayIdleAnimation()
+    public virtual void OnPlayIdleAnimation()
     {
         _animator.SetBool(RunLabel, false);
     }
