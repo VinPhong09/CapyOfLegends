@@ -4044,10 +4044,10 @@ RectTransform:
   - {fileID: 62172391}
   m_Father: {fileID: 1941299881}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 1226.801, y: -147.5}
+  m_SizeDelta: {x: 341.94315, y: 255}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &115961919
 MonoBehaviour:
@@ -29778,10 +29778,10 @@ RectTransform:
   - {fileID: 918216232}
   m_Father: {fileID: 1941299881}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 170.97157, y: -147.5}
+  m_SizeDelta: {x: 341.94315, y: 255}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &804772907
 MonoBehaviour:
@@ -55559,10 +55559,10 @@ RectTransform:
   - {fileID: 686832326}
   m_Father: {fileID: 1941299881}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 351.94315, y: -147.5}
+  m_SizeDelta: {x: 341.94315, y: 255}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &1649553608
 MonoBehaviour:
@@ -59567,10 +59567,10 @@ RectTransform:
   - {fileID: 1543189317}
   m_Father: {fileID: 1941299881}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 874.85785, y: -147.5}
+  m_SizeDelta: {x: 341.94315, y: 255}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1762486541
 MonoBehaviour:
@@ -95544,6 +95544,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1555729968}
     m_Modifications:
+    - target: {fileID: 1175660115392081730, guid: 331dbaa063357c145840c094a38c00e0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2285533981088946880, guid: 331dbaa063357c145840c094a38c00e0, type: 3}
       propertyPath: m_Name
       value: ChickenCard
@@ -106453,6 +106457,6 @@ SceneRoots:
   - {fileID: 139391988}
   - {fileID: 304753317}
   - {fileID: 1592176902}
-  - {fileID: 115775540}
   - {fileID: 273394248}
   - {fileID: 97905158}
+  - {fileID: 115775540}

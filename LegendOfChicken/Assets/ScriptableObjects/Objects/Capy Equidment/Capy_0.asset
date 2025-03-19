@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28d0eb39c060ccb47a56d33c40b243c0, type: 3}
   m_Name: Capy_0
   m_EditorClassIdentifier: 
-  CharacterParameters: {fileID: 0}
+  CharacterParameters: {fileID: 11400000, guid: 8851d2ba96a06ab419c2b05f927898e1, type: 2}
   WeaponIcon: {fileID: 11400000, guid: 8c6168617762fe54e92a2950630b97ad, type: 2}
   HatIcon: {fileID: 0}
   ArmorIcon: {fileID: 0}

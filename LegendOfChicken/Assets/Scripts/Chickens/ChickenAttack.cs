@@ -104,6 +104,6 @@ public class ChickenAttack : AttackAction
     {
         _enhanceDamageParameters.Value = _chickenParameters.Damage;
         _damage.NumberDamage = _chickenParameters.Damage;
-        Debug.Log("damage refreshed");
+       
     }
 }

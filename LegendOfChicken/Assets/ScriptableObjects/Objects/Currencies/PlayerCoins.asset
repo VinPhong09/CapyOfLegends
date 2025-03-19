@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayerCoins
   m_EditorClassIdentifier: 
   _name: Coins
-  _amount: 1110
+  _amount: 19999510
   _currencyIconImage: {fileID: 21300000, guid: 70cfe6702b619bb4186859eded2a60cb, type: 3}

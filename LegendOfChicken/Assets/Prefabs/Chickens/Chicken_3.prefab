@@ -10025,7 +10025,7 @@ GameObject:
   - component: {fileID: 7011529767221030670}
   - component: {fileID: 1585721815552557256}
   m_Layer: 0
-  m_Name: "\u0421hicken_3"
+  m_Name: Chicken_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

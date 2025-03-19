@@ -5196,9 +5196,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _scrollEnhancesElement: {fileID: 6001736814118742950, guid: 98716fa2e7496a9409cc780fc4a194d2, type: 3}
-  _chickenParams: {fileID: 11400000, guid: 8be12b7608aa95b47962bcd87fb6ee6c, type: 2}
-  _enhanceElementParameters: {fileID: 11400000, guid: e646f5548c5f39149a8d8a29fd4f9674, type: 2}
+  _scrollEnhancesElement: {fileID: 6001736814118742950, guid: 40fb97f7758fa7d4484124831cac90b7, type: 3}
+  _chickenParams: {fileID: 11400000, guid: 8851d2ba96a06ab419c2b05f927898e1, type: 2}
+  _enhanceElementParameters: {fileID: 11400000, guid: 0cfb527a0c31dab48babb890d8eded1c, type: 2}
   _enhanceEffect: {fileID: 2072399936598365462}
   _featherEffect: {fileID: 62332403995190488, guid: ed8d6bb0a8d1c0b4dba4bdce5e52082f, type: 3}
   _damageInfo: {fileID: 3958867839266513889, guid: 3bbc3d2f43097234db3885a4329931c1, type: 3}
@@ -5217,7 +5217,7 @@ MonoBehaviour:
   _defaultBullet: {fileID: -8308608579526173327, guid: 57f4db3caf560cd4a8d3b3d63e2f3a98, type: 3}
   _chickenParameters: {fileID: 11400000, guid: 8851d2ba96a06ab419c2b05f927898e1, type: 2}
   _animator: {fileID: 1741170990802381834}
-  _enhanceDamageParameters: {fileID: 11400000, guid: 69685bc3193bdb74da3d7e5a15b1e7b7, type: 2}
+  _enhanceDamageParameters: {fileID: 11400000, guid: a3364e186bff7854a9fb92282b79d6b2, type: 2}
   _equipmentParameters: {fileID: 11400000, guid: db4c37010e6f6d14898ed5224f9e234e, type: 2}
 --- !u!95 &6710444531413681347
 Animator:
@@ -5269,7 +5269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4a3a21f2412aef43b0aae3a617d9ed0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _chickenEquipment: {fileID: 11400000, guid: 06752d5f3e891c846b8b9a18d6e5cf93, type: 2}
+  _chickenEquipment: {fileID: 11400000, guid: db4c37010e6f6d14898ed5224f9e234e, type: 2}
   _weapon: {fileID: 0}
   _hat: {fileID: 0}
   _shield: {fileID: 0}
