@@ -5269,7 +5269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4a3a21f2412aef43b0aae3a617d9ed0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _chickenEquipment: {fileID: 11400000, guid: db4c37010e6f6d14898ed5224f9e234e, type: 2}
+  _chickenEquipment: {fileID: 0}
   _weapon: {fileID: 0}
   _hat: {fileID: 0}
   _shield: {fileID: 0}

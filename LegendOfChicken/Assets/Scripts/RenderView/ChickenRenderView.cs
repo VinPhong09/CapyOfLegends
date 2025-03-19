@@ -19,10 +19,11 @@ public class ChickenRenderView : RenderView
     {
         if (_chickenEquipment == null)
         {
+            return;
             _weapon.gameObject.SetActive(false);
             _hat.gameObject.SetActive(false);
             _shield.gameObject.SetActive(false);
-            return;
+            
         }
 
         _weapon.gameObject.SetActive(true);
