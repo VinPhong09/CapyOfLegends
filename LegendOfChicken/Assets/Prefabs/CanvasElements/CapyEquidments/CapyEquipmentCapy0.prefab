@@ -162,6 +162,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1117358249351137608, guid: 834c3709d93a95847aa5bbe7786b39cc, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 8600000, guid: f91b518883a75674390d0997e7f43157, type: 2}
     - target: {fileID: 2314253180419875986, guid: 834c3709d93a95847aa5bbe7786b39cc, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -210,10 +214,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -550607495, guid: 9471366adbe0e5a42b694ee5ea0ba323, type: 3}
+    - target: {fileID: 8364438159948390668, guid: 834c3709d93a95847aa5bbe7786b39cc, type: 3}
+      propertyPath: m_fontSize
+      value: 36
+      objectReference: {fileID: 0}
     - target: {fileID: 8487364502655591347, guid: 834c3709d93a95847aa5bbe7786b39cc, type: 3}
       propertyPath: <ActiveSkillsParameters>k__BackingField
       value: 
       objectReference: {fileID: 11400000, guid: 2af129c910994c849885c58d1ca0a424, type: 2}
+    - target: {fileID: 8944427983443957695, guid: 834c3709d93a95847aa5bbe7786b39cc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8944427983443957695, guid: 834c3709d93a95847aa5bbe7786b39cc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.8
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 0}
     m_RemovedGameObjects: []
