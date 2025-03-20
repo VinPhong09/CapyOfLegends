@@ -10,30 +10,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2d329f16d4be604f931a72f2f0b3dbe, type: 3}
-  m_Name: Capy0
+  m_Name: Capy Cowboy
   m_EditorClassIdentifier: 
-  Name: Capy 0
-  Health: 100
-  Damage: 10
-  AttackSpeed: 2
-  CriticalHitChance: 20
+  Name: Capy Cowboy
+  Health: 200
+  Damage: 100
+  AttackSpeed: 6
+  CriticalHitChance: 40
   CriticalHitDamage: 80
   HealthRecovery: 2
-  DoubleHitChance: 1
+  DoubleHitChance: 10
   TripleHitChance: 1
-  BaseHealth: 100
-  BaseDamage: 10
-  BaseAttackSpeed: 2
-  BaseCriticalHitChance: 20
+  BaseHealth: 200
+  BaseDamage: 100
+  BaseAttackSpeed: 6
+  BaseCriticalHitChance: 40
   BaseCriticalHitDamage: 80
   BaseHealthRecovery: 2
-  BaseDoubleHitChance: 1
+  BaseDoubleHitChance: 10
   BaseTripleHitChance: 1
-  _index: 5
+  _index: 2
   _level: 1
   _isLocked: 0
   _icon: {fileID: 21300000, guid: 4da2289016d259b458f1f139657106c8, type: 3}
-  _chickenRenderView: {fileID: 8600000, guid: f91b518883a75674390d0997e7f43157, type: 2}
+  _chickenRenderView: {fileID: 8600000, guid: b3e213d542aba3f4a9d075f27bc25d5d, type: 2}
   ActiveSkills:
   - {fileID: 11400000, guid: 2af129c910994c849885c58d1ca0a424, type: 2}
   - {fileID: 11400000, guid: 345244ae40dfefa48bd441275c63b28d, type: 2}

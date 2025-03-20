@@ -9,7 +9,8 @@ public class CapyAnimator : ChickenAnimator
    public SkeletonAnimation Head;
    public SkeletonAnimation Body;
    public SkeletonAnimation Legs;
-
+   public SkeletonAnimation Hat_Access;
+   public SkeletonAnimation Body_Access;
    public void Start()
    {
       OnPlayIdleAnimation();
@@ -36,6 +37,8 @@ public class CapyAnimator : ChickenAnimator
       Head.AnimationName = animationName;
       Body.AnimationName = animationName;
       Legs.AnimationName = animationName;
+      Hat_Access.AnimationName = animationName;
+      Body_Access.AnimationName = animationName;
    }
 
 }

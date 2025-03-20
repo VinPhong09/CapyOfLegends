@@ -1,0 +1,16 @@
+body_access.png
+size:268,199
+filter:Linear,Linear
+pma:true
+scale:0.5
+cape_1
+bounds:2,3,30,17
+cape_2
+bounds:145,2,30,38
+rotate:90
+cloth
+bounds:145,34,121,163
+no_cape
+bounds:2,22,175,141
+offsets:8,3,183,144
+rotate:90
