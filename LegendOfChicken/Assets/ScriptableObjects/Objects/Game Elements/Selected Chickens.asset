@@ -13,11 +13,7 @@ MonoBehaviour:
   m_Name: Selected Chickens
   m_EditorClassIdentifier: 
   _selectedChickens:
-  - {fileID: 0}
+  - {fileID: 3549423669641943899, guid: 5065b7217b2de3b45870295449903943, type: 3}
   - {fileID: 3624385221574745823, guid: 8587bd99cbe54d24f9a1a568ee55bfb0, type: 3}
   - {fileID: 4674196843404806037, guid: 776445fa1d7864d4f8b5b83ed8aa906d, type: 3}
   - {fileID: 1077780666996762500, guid: 3c1c481f1fc6131469ec97fddd2ea5a0, type: 3}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
