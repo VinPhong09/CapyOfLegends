@@ -170,6 +170,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 1436229496, guid: 9471366adbe0e5a42b694ee5ea0ba323, type: 3}
+    - target: {fileID: 2827971976854990436, guid: 834c3709d93a95847aa5bbe7786b39cc, type: 3}
+      propertyPath: m_text
+      value: Capy
+      objectReference: {fileID: 0}
     - target: {fileID: 2879970542393033985, guid: 834c3709d93a95847aa5bbe7786b39cc, type: 3}
       propertyPath: <ActiveSkillsParameters>k__BackingField
       value: 
@@ -216,7 +220,7 @@ PrefabInstance:
       objectReference: {fileID: -550607495, guid: 9471366adbe0e5a42b694ee5ea0ba323, type: 3}
     - target: {fileID: 8364438159948390668, guid: 834c3709d93a95847aa5bbe7786b39cc, type: 3}
       propertyPath: m_fontSize
-      value: 36
+      value: 37.1
       objectReference: {fileID: 0}
     - target: {fileID: 8487364502655591347, guid: 834c3709d93a95847aa5bbe7786b39cc, type: 3}
       propertyPath: <ActiveSkillsParameters>k__BackingField
