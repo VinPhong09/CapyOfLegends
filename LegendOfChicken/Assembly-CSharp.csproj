@@ -245,9 +245,9 @@
     <None Include="Library\PackageCache\com.unity.ext.nunit@1.0.6\package.json" />
     <None Include="Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3\package.json" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\package.json" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.9\package.json" />
     <None Include="Assets\Effects\Epic Toon FX\Changelog.txt" />
-    <None Include="Library\PackageCache\com.unity.timeline@1.7.6\package.json" />
+    <None Include="Library\PackageCache\com.unity.timeline@1.7.7\package.json" />
     <None Include="Assets\Sprites\Capys\Spine\Body\body.atlas.txt" />
     <None Include="Assets\Sprites\Layer Lab\GUI Pro-CasualGame\Extensions\UIParticle\hidden particle.shader" />
     <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.22\ValidationConfig.json" />
@@ -255,23 +255,23 @@
     <None Include="Library\PackageCache\com.unity.mathematics@1.2.6\package.json" />
     <None Include="Library\PackageCache\com.unity.scriptablebuildpipeline@1.21.23\package.json" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-    <None Include="Library\PackageCache\com.unity.visualscripting@1.9.1\package.json" />
-    <None Include="Library\PackageCache\com.unity.timeline@1.7.6\ValidationExceptions.json" />
+    <None Include="Library\PackageCache\com.unity.visualscripting@1.9.6\package.json" />
+    <None Include="Library\PackageCache\com.unity.timeline@1.7.7\ValidationExceptions.json" />
     <None Include="Assets\Sprites\2D Game Design Mastery Fantasy Edition\Extensions\UIShinyExtensions\Shaders\UI-Effect.cginc" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\package.json" />
     <None Include="Library\PackageCache\com.unity.adaptiveperformance.samsung.android@5.0.0\package.json" />
     <None Include="Library\PackageCache\com.unity.addressables@1.21.21\package.json" />
     <None Include="Assets\Sprites\Capys\Spine\Access_Body\body_access.json" />
-    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\PackageConversionData.json" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.9\PackageConversionData.json" />
     <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.22\package.json" />
-    <None Include="Library\PackageCache\com.unity.recorder@4.0.2\package.json" />
+    <None Include="Library\PackageCache\com.unity.recorder@4.0.3\package.json" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Sprites\Layer Lab\GUI Pro-CasualGame\ResourcesData\Shader &amp; Materials\UIAdditive.shader" />
-    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\ValidationExceptions.json" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.9\ValidationExceptions.json" />
     <None Include="Assets\Sprites\2D Game Design Mastery Fantasy Edition\Extensions\UIParticle\HiddenParticle.shader" />
     <None Include="Assets\Sprites\Capys\Spine\Body\body.json" />
-    <None Include="Library\PackageCache\com.unity.ide.rider@3.0.27\package.json" />
+    <None Include="Library\PackageCache\com.unity.ide.rider@3.0.35\package.json" />
     <None Include="Library\PackageCache\com.unity.searcher@4.9.2\package.json" />
+    <None Include="Library\PackageCache\com.unity.ide.rider@3.0.35\ValidationExceptions.json" />
     <None Include="Library\PackageCache\com.unity.test-framework@1.1.33\package.json" />
     <None Include="Assets\Effects\Epic Toon FX\Shaders\ETFX_PowerboxLit.shader" />
     <None Include="Assets\Sprites\2D Game Design Mastery Fantasy Edition\Third-PartyNotices.txt" />
@@ -279,17 +279,21 @@
     <None Include="Assets\Sprites\Capys\Spine\Access_Head\hat_access.json" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\Sprites\Capys\Spine\Access_Body\body_access.atlas.txt" />
-    <None Include="Library\PackageCache\com.unity.visualscripting@1.9.1\ValidationExceptions.json" />
+    <None Include="Library\PackageCache\com.unity.services.core@1.12.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.visualscripting@1.9.6\ValidationExceptions.json" />
     <None Include="Assets\Effects\Epic Toon FX\Prefabs\Interactive\Interactive FX.txt" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Library\PackageCache\com.unity.2d.common@8.0.2\package.json" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.22\ValidationExceptions.json" />
+    <None Include="Library\PackageCache\com.unity.services.ccd.management@2.1.0\ValidationExceptions.json" />
+    <None Include="Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\link.xml" />
     <None Include="Assets\Sprites\Capys\Spine\Head\head.atlas.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Library\PackageCache\com.unity.mobile.android-logcat@1.4.0\ValidationConfig.json" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\package.json" />
     <None Include="Assets\Spine\package.json" />
     <None Include="Assets\Effects\Epic Toon FX\Shaders\ETFX_PowerboxUnlit.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
@@ -297,22 +301,23 @@
     <None Include="Assets\Effects\Epic Toon FX\Upgrade\URP Compatibility.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders\TMP_SDF_SSD.cginc" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.9\Editor Resources\Shaders\TMP_SDF_SSD.cginc" />
     <None Include="Assets\Sprites\Capys\Spine\Access_Head\hat_access.atlas.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\ValidationConfig.json" />
     <None Include="Library\PackageCache\com.unity.profiling.core@1.0.2\package.json" />
-    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders\TMP_Properties.cginc" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.9\Editor Resources\Shaders\TMP_Properties.cginc" />
     <None Include="Assets\Sprites\Capys\Spine\Head\head.json" />
+    <None Include="Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\AOT\Newtonsoft.Json.xml" />
     <None Include="Assets\Sprites\Layer Lab\GUI Pro-CasualGame\ResourcesData\Shader &amp; Materials\MobileAdditive.shader" />
-    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\Editor Resources\Shaders\TMP_SDF Internal Editor.shader" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.9\Editor Resources\Shaders\TMP_SDF Internal Editor.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Sprites\Capys\Spine\Leg\capy_leg.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.services.ccd.management@2.1.0\package.json" />
     <None Include="Library\PackageCache\com.unity.2d.aseprite@1.0.1\package.json" />
     <None Include="Library\PackageCache\com.unity.ide.vscode@1.2.5\ValidationExceptions.json" />
-    <None Include="Library\PackageCache\com.unity.visualscripting@1.9.1\ValidationConfig.json" />
+    <None Include="Library\PackageCache\com.unity.visualscripting@1.9.6\ValidationConfig.json" />
     <None Include="Library\PackageCache\com.unity.collections@1.2.4\package.json" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
-    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.6\PackageConversionData_Assets.json" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.9\PackageConversionData_Assets.json" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Library\PackageCache\com.unity.2d.spriteshape@9.0.2\package.json" />
     <None Include="Library\PackageCache\com.unity.mathematics@1.2.6\ValidationExceptions.json" />
@@ -320,6 +325,7 @@
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Library\PackageCache\com.unity.2d.tilemap.extras@3.1.2\ValidationExceptions.json" />
     <None Include="Library\PackageCache\com.unity.2d.animation@9.0.4\package.json" />
+    <None Include="Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.xml" />
     <None Include="Library\PackageCache\com.unity.collections@1.2.4\ValidationExceptions.json" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Library\PackageCache\com.unity.burst@1.8.11\Unity.Burst.Unsafe.xml" />
@@ -578,7 +584,10 @@
       <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.visualscripting@1.9.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>D:\Unity\Unity Editor\2022.3.16f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -1040,6 +1049,10 @@
       <Project>{39cbbfcc-d4ec-3880-1ac0-2f1a2c324b4c}</Project>
       <Name>Unity.ScriptableBuildPipeline</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Services.Core.csproj">
+      <Project>{70c985be-810a-8980-6fba-3a3f0e34059b}</Project>
+      <Name>Unity.Services.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.AdaptivePerformance.Simulator.Extension.csproj">
       <Project>{29a516fa-eb67-2c33-8eef-405a437ad454}</Project>
       <Name>Unity.AdaptivePerformance.Simulator.Extension</Name>
@@ -1076,6 +1089,10 @@
       <Project>{94a3d4f5-66b7-c5d2-c5fe-88bf6f9e58ca}</Project>
       <Name>Unity.2D.Tilemap.Extras.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Services.Core.Environments.csproj">
+      <Project>{ae80be22-8c4e-85a4-29ba-8d1fec7d1132}</Project>
+      <Name>Unity.Services.Core.Environments</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
       <Project>{3224a433-7c22-0173-59b6-8d1b1c52dd20}</Project>
       <Name>Unity.Collections</Name>
@@ -1100,6 +1117,10 @@
       <Project>{b814de3e-cd6b-69a7-285d-988e6bb7e54a}</Project>
       <Name>Unity.2D.Aseprite.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Services.Core.Analytics.csproj">
+      <Project>{9bc09485-bf9f-4938-e1af-9e38a493e810}</Project>
+      <Name>Unity.Services.Core.Analytics</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Recorder.csproj">
       <Project>{3ede5c95-725c-0eff-379e-ced60386caef}</Project>
       <Name>Unity.Recorder</Name>
@@ -1120,13 +1141,13 @@
       <Project>{81600b8c-35c9-bbd7-82a0-31cf930ae9ac}</Project>
       <Name>Unity.AdaptivePerformance.Samsung.Android</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Services.Ccd.Management.csproj">
+      <Project>{bce19e26-11f4-6e41-148e-0d0b28bd7db2}</Project>
+      <Name>Unity.Services.Ccd.Management</Name>
+    </ProjectReference>
     <ProjectReference Include="PsdPlugin.csproj">
       <Project>{2c51e7c8-7403-3271-d801-39e3ba9a1921}</Project>
       <Name>PsdPlugin</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{00d5cfec-87c5-533d-35c9-2cc91758c27a}</Project>
-      <Name>Unity.PlasticSCM.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
       <Project>{4915033b-c2b8-0451-2bfe-2b9c2773f968}</Project>

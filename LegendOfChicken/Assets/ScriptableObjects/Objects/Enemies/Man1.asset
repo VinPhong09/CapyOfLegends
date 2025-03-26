@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Man1
   m_EditorClassIdentifier: 
   Name: 
-  Health: 200
+  Health: 50
   Damage: 10
   AttackSpeed: 1
   CriticalHitChance: 20

@@ -59,104 +59,8 @@
     <Compile Include="Assets\GameAnalytics\Editor\GA_PostprocessBuild.cs" />
     <Compile Include="Assets\GameAnalytics\Editor\Playmaker\SendResourceEventActionEditor.cs" />
     <Compile Include="Assets\GameAnalytics\Editor\GA_Menu.cs" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\i3.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\binmergetool.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm-help.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\binmergetool.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\plastic-gui.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\plastic-gui.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\binmergetool.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\semantic.zh-Hant.txt" />
     <None Include="Assets\ExternalDependencyManager\Editor\external-dependency-manager_version-1.2.169_manifest.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\configurehelper.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\xdiff.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\semantic.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\commontypes.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\guihelp.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\configurehelper.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\images.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\clientcommon.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\images.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\semantic.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\clientcommon.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm-help.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\basecommands.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\workspaceserver.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\guihelp.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\workspaceserver.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\basecommands.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\basecommands.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\xdiff.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\xdiff.ja.txt" />
     <None Include="Assets\GameAnalytics\Editor\Android\Dependencies.xml" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\workspaceserver.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\i3.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\mergetool.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\basecommands.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm-help.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\clientcommon.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\differences.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\mergetool.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\plastic-gui.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\workspaceserver.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\guihelp.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\commontypes.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\images.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\plastic-gui.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm-help.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\binmergetool.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\configurehelper.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\xdiff.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm-help.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\FileSystemWatcherLicense.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\xdiff.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm-help.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\differences.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\commontypes.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\binmergetool.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\i3.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\images.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\mergetool.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\i3.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\commontypes.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\plastic-gui.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\semantic.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\images.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\mergetool.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\configurehelper.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\basecommands.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\images.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\guihelp.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\workspaceserver.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\clientcommon.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\configurehelper.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\differences.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\i3.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\commontypes.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\commontypes.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\semantic.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\i3.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\xdiff.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\guihelp.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\mergetool.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\cm.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\configurehelper.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\mergetool.zh-Hant.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\guihelp.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\differences.zh-Hans.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\clientcommon.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\differences.es.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\basecommands.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\binmergetool.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\workspaceserver.en.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\differences.ja.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\clientcommon.ko.txt" />
-    <None Include="Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Localization\plastic-gui.zh-Hant.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Unity\Unity Editor\2022.3.16f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -425,19 +329,13 @@
       <HintPath>D:\Unity\Unity Editor\2022.3.16f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.visualscripting@1.9.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
       <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
-    <Reference Include="unityplastic">
-      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
-    </Reference>
     <Reference Include="Google.IOSResolver">
       <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Assets\ExternalDependencyManager\Editor\1.2.169\Google.IOSResolver.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl">
       <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Assets\ExternalDependencyManager\Editor\1.2.169\Google.VersionHandlerImpl.dll</HintPath>
@@ -445,17 +343,11 @@
     <Reference Include="DOTweenEditor">
       <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="log4netPlastic">
-      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
-    </Reference>
     <Reference Include="Google.VersionHandler">
       <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Assets\ExternalDependencyManager\Editor\Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.visualscripting@1.9.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver">
       <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Assets\ExternalDependencyManager\Editor\1.2.169\Google.JarResolver.dll</HintPath>
@@ -464,10 +356,13 @@
       <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.visualscripting@1.9.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Library\PackageCache\com.unity.visualscripting@1.9.6\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="Google.PackageManagerResolver">
       <HintPath>D:\GitRepo\CapyOfLegends\LegendOfChicken\Assets\ExternalDependencyManager\Editor\1.2.169\Google.PackageManagerResolver.dll</HintPath>
@@ -956,6 +851,10 @@
       <Project>{39cbbfcc-d4ec-3880-1ac0-2f1a2c324b4c}</Project>
       <Name>Unity.ScriptableBuildPipeline</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Services.Core.csproj">
+      <Project>{70c985be-810a-8980-6fba-3a3f0e34059b}</Project>
+      <Name>Unity.Services.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.AdaptivePerformance.Simulator.Extension.csproj">
       <Project>{29a516fa-eb67-2c33-8eef-405a437ad454}</Project>
       <Name>Unity.AdaptivePerformance.Simulator.Extension</Name>
@@ -992,6 +891,10 @@
       <Project>{94a3d4f5-66b7-c5d2-c5fe-88bf6f9e58ca}</Project>
       <Name>Unity.2D.Tilemap.Extras.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Services.Core.Environments.csproj">
+      <Project>{ae80be22-8c4e-85a4-29ba-8d1fec7d1132}</Project>
+      <Name>Unity.Services.Core.Environments</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
       <Project>{3224a433-7c22-0173-59b6-8d1b1c52dd20}</Project>
       <Name>Unity.Collections</Name>
@@ -1016,6 +919,10 @@
       <Project>{b814de3e-cd6b-69a7-285d-988e6bb7e54a}</Project>
       <Name>Unity.2D.Aseprite.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Services.Core.Analytics.csproj">
+      <Project>{9bc09485-bf9f-4938-e1af-9e38a493e810}</Project>
+      <Name>Unity.Services.Core.Analytics</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Recorder.csproj">
       <Project>{3ede5c95-725c-0eff-379e-ced60386caef}</Project>
       <Name>Unity.Recorder</Name>
@@ -1036,13 +943,13 @@
       <Project>{81600b8c-35c9-bbd7-82a0-31cf930ae9ac}</Project>
       <Name>Unity.AdaptivePerformance.Samsung.Android</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Services.Ccd.Management.csproj">
+      <Project>{bce19e26-11f4-6e41-148e-0d0b28bd7db2}</Project>
+      <Name>Unity.Services.Ccd.Management</Name>
+    </ProjectReference>
     <ProjectReference Include="PsdPlugin.csproj">
       <Project>{2c51e7c8-7403-3271-d801-39e3ba9a1921}</Project>
       <Name>PsdPlugin</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{00d5cfec-87c5-533d-35c9-2cc91758c27a}</Project>
-      <Name>Unity.PlasticSCM.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
       <Project>{4915033b-c2b8-0451-2bfe-2b9c2773f968}</Project>

@@ -11,9 +11,9 @@ using UnityEngine.UI;
 
 public class SceneLoader : MonoBehaviour
 {
-    [SerializeField]private AssetReference addressableSceneName; // Tên Addressables của Scene
+    [SerializeField]private AssetReference addressableSceneName; 
     [SerializeField] private AsyncOperationHandle<SceneInstance> _handle;
-    public Slider loadingBar; // Gán Slider từ UI vào đây
+    public Slider loadingBar; 
     public TextMeshProUGUI progressText;
     
         public void Start()
@@ -28,8 +28,7 @@ public class SceneLoader : MonoBehaviour
             {
                 float currentProgress = _handle.GetDownloadStatus().Percent;
                 loadingBar.value = currentProgress;
-                progressText.text = currentProgress * 100 + "%";
-                Debug.Log(currentProgress);
+                progressText.text = Mathf.Round(currentProgress * 100) + "%";
             }
 
             if (Mathf.Approximately(_handle.PercentComplete, 1f))
