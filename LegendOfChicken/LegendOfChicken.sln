@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Notifications", "Unit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AdaptivePerformance.UI.Editor", "Unity.AdaptivePerformance.UI.Editor.csproj", "{89c3a49d-1f97-2edc-d249-81fe1195ff4a}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{3bc12897-257a-1fa9-89e2-705ff8db4e1e}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.PixelPerfect.Editor", "Unity.2D.PixelPerfect.Editor.csproj", "{dc1ca585-5a72-75e3-a988-cf8556fa561f}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Common.Runtime", "Unity.2D.Common.Runtime.csproj", "{33d1e0b0-d54b-fbae-77b5-b411a5c5e257}"
@@ -390,6 +392,8 @@ Global
 		{8797603a-5280-e91a-6d06-afd2a6d87fe3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89c3a49d-1f97-2edc-d249-81fe1195ff4a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{89c3a49d-1f97-2edc-d249-81fe1195ff4a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3bc12897-257a-1fa9-89e2-705ff8db4e1e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3bc12897-257a-1fa9-89e2-705ff8db4e1e}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{dc1ca585-5a72-75e3-a988-cf8556fa561f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{dc1ca585-5a72-75e3-a988-cf8556fa561f}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33d1e0b0-d54b-fbae-77b5-b411a5c5e257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

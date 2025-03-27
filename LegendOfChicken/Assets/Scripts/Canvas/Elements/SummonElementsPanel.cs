@@ -1,11 +1,14 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class SummonElementsPanel : MonoBehaviour
 {
+    [Header("References")]
     [SerializeField] private SummonElement[] _cards;
-
+    
     [Header("Equipment Elements")]
     [SerializeField] private WeaponEquipmentElementParameters[] _weaponEquipmentElements;
     [SerializeField] private HatEquipmentElementParameters[] _hatEquipmentElements;
@@ -22,24 +25,51 @@ public class SummonElementsPanel : MonoBehaviour
 
     private List<ChickenEquipmentElementParameters> _generatedSummons = new List<ChickenEquipmentElementParameters>();
 
+    private bool _canSummons;
+    
+    public static Action OnSummon;
+
     private void OnDisable()
     {
         DisableAllCards();
     }
 
-    public void CreateWeapons(int amount)
+    public void CreateWeaponsAd(int amount)
     {
-        Initialize(amount, IEquipmentType.EquipmentType.Weapon);
+        AdmodManager.Instance.ShowRewardedAd(CreateWeapons, amount);
+    }
+    
+    public void CreateHatsAd(int amount)
+    {
+        AdmodManager.Instance.ShowRewardedAd(CreateHats, amount);
+    }
+    
+    public void CreateShieldsAd(int amount)
+    {
+        AdmodManager.Instance.ShowRewardedAd(CreateShields, amount);
+    }
+    
+    
+    public void CreateWeapons(int amount)
+    { 
+       if(_canSummons) 
+           Initialize(amount, IEquipmentType.EquipmentType.Weapon);
+       else
+       {
+           Debug.Log("Can't create weapons while can summons");
+       }
     }
 
     public void CreateHats(int amount)
     {
-        Initialize(amount, IEquipmentType.EquipmentType.Hat);
+        if(_canSummons) 
+            Initialize(amount, IEquipmentType.EquipmentType.Hat);
     }
 
     public void CreateShields(int amount)
     {
-        Initialize(amount, IEquipmentType.EquipmentType.Armor);
+        if(_canSummons) 
+            Initialize(amount, IEquipmentType.EquipmentType.Armor);
     }
 
     public void Initialize(int amount, IEquipmentType.EquipmentType equipmenType)
@@ -99,6 +129,7 @@ public class SummonElementsPanel : MonoBehaviour
             StopCoroutine(_appearElements);
             _appearElements = StartCoroutine(AppearElements(amount));
         }
+        OnSummon?.Invoke();
     }
 
     private IEnumerator AppearElements(int amount)
@@ -119,5 +150,19 @@ public class SummonElementsPanel : MonoBehaviour
         {
             i.gameObject.SetActive(false);
         }
+    }
+
+    public void CheckCurrencyGems(int amount)
+    {
+        var gems = CurrencyView.Instance.Gems;
+        
+        if (gems >= amount)
+        {
+            CurrencyView.Instance.SpendGems(amount);
+            _canSummons = true;
+            return;
+        }
+        _canSummons = false;
+        this.gameObject.SetActive(false);
     }
 }

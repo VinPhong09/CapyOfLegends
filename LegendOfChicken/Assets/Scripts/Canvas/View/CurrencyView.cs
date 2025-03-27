@@ -22,8 +22,8 @@ public class CurrencyView : MonoBehaviour
     //private int _coins;
     //private int _gems = 0;
 
-    //public int Coins => _coins;
-    //public int Gems => _gems;
+    public int Coins => _coins._amount;
+    public int Gems => _gems._amount;
 
     private void OnEnable()
     {
@@ -73,6 +73,13 @@ public class CurrencyView : MonoBehaviour
         FailedSpendCoins?.Invoke();
     }
 
+    public void SpendGems(int amount)
+    {
+        if (_gems._amount < amount) return;
+        
+        _gems._amount -= amount;
+        UpdateUI();
+    }
     public void CreateCoinCollectedImage(Vector3 initPos, int amount)
     {
         for(int i = 0; i < amount; i++)

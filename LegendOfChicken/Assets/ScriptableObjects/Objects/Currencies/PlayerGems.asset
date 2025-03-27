@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayerGems
   m_EditorClassIdentifier: 
   _name: Gems
-  _amount: 20
+  _amount: 0
   _currencyIconImage: {fileID: 21300000, guid: 331b257c5ac904bd4a6bc83ba7d0d4f7, type: 3}

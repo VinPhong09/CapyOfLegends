@@ -32,7 +32,7 @@ namespace Helios.GUI {
         private int itemNumber;
 
         private void Awake() {
-            //TurnButton.onClick.AddListener(TurnWheel);
+            TurnButton.onClick.AddListener(RewardedTurnWheel);
             for (int i = 0; i < _currencyRewards.Length; i++){
                 _imgRewards[i].sprite = _currencyRewards[i]._currencyIconImage;
             }
@@ -61,7 +61,12 @@ namespace Helios.GUI {
             anglePerItem = FULL_CIRCLE / _imgRewards.Length;
         }
 
-        private void TurnWheel() {
+        public void RewardedTurnWheel()
+        {
+            AdmodManager.Instance.ShowRewardedAd(TurnWheel);
+        }
+        public void TurnWheel() {
+            
             if(!spinning) {
                 //UI handle
                 _animator.SetTrigger("Pressed");
