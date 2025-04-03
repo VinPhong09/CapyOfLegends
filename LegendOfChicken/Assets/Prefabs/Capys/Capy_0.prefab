@@ -5341,6 +5341,7 @@ MonoBehaviour:
   _chickenParameters: {fileID: 11400000, guid: 8851d2ba96a06ab419c2b05f927898e1, type: 2}
   _animator: {fileID: 1741170990802381834}
   _enhanceDamageParameters: {fileID: 11400000, guid: a3364e186bff7854a9fb92282b79d6b2, type: 2}
+  _enhanceAttackSpeedParameters: {fileID: 11400000, guid: 786905cbca53d38459863d8b54579d89, type: 2}
   _equipmentParameters: {fileID: 11400000, guid: db4c37010e6f6d14898ed5224f9e234e, type: 2}
 --- !u!95 &6710444531413681347
 Animator:
@@ -15998,7 +15999,7 @@ Transform:
   m_GameObject: {fileID: 8812320152937285200}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.016, y: -0.14, z: 0}
+  m_LocalPosition: {x: 0.016, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 0.14999999, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

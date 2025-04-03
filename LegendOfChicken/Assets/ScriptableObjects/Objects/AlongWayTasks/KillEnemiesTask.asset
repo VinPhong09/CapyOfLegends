@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: KillEnemiesTask
   m_EditorClassIdentifier: 
   _text: Kill enemies
-  _rewardAmount: 20
+  _rewardAmount: 50
   _goal: 15
   taskType: 0
   _rewardCurrency: {fileID: 11400000, guid: 2cb7dbe3a31f4b74d8b3a277dd7602ea, type: 2}

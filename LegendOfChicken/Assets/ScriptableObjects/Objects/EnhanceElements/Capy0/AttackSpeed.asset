@@ -14,10 +14,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enhanced:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 450359391098058976, guid: 5065b7217b2de3b45870295449903943, type: 3}
+        m_TargetAssemblyTypeName: ChickenAttack, Assembly-CSharp
+        m_MethodName: EnhanceAttackSpeed
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   _icon: {fileID: 463802894, guid: 3a71f0ad2adf760458606bdaa106e709, type: 3}
   _label: Attack Speed
-  _level: 1
-  _value: 100
-  _cost: 100
+  _level: 2
+  _value: 1.9
+  _cost: 125
   _baseCost: 100

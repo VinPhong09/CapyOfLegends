@@ -29,7 +29,7 @@ MonoBehaviour:
         m_CallState: 2
   _icon: {fileID: 700768514, guid: 3a71f0ad2adf760458606bdaa106e709, type: 3}
   _label: Health
-  _level: 23
-  _value: 100
-  _cost: 100
+  _level: 1
+  _value: 1375
+  _cost: 50
   _baseCost: 100

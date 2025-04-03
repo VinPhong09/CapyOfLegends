@@ -35,7 +35,6 @@ public class ShopController : MonoBehaviour
     public void CheckInteractableButtons()
     {
         var gems = CurrencyView.Instance.Gems;
-        Debug.Log("Checking interactable buttons - " + gems);
         
         var canSummon15 = gems >= 500;
         var canSummon35 = gems >= 1500;
@@ -51,8 +50,5 @@ public class ShopController : MonoBehaviour
                 btn.interactable = setActive;
             }
     }
-    /*public void OpenPanel(GameObject panel)
-    {
-
-    }*/
+    
 }

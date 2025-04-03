@@ -34,10 +34,12 @@ public abstract class Enemy : MonoBehaviour, IGetDamagable
     {
         transform.position = initPos;
         _health = _enemyParameters.Health * difficultyRatio;
+        var randomCoinMin = 2 * Mathf.RoundToInt(difficultyRatio);
+        var randomCoinMax = 6 * Mathf.RoundToInt(difficultyRatio);
         Died += diedActions;
         Died += () =>
         {
-            CurrencyView.Instance.CreateCoinCollectedImage(Camera.main.WorldToScreenPoint(transform.position), UnityEngine.Random.Range(2, 6));
+            CurrencyView.Instance.CreateCoinCollectedImage(Camera.main.WorldToScreenPoint(transform.position), UnityEngine.Random.Range(randomCoinMin, randomCoinMax));
             Instantiate(_deathEffect, transform.position, Quaternion.identity);
         };
 

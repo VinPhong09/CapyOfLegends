@@ -7,6 +7,7 @@ public class ChickenAttack : AttackAction
     [SerializeField] private ChickenParameters _chickenParameters;
     [SerializeField] private ChickenAnimator _animator;
     [SerializeField] private EnhanceElementParameters _enhanceDamageParameters;
+    [SerializeField] private EnhanceElementParameters _enhanceAttackSpeedParameters;
     [SerializeField] private ChickenEquipmentParameters _equipmentParameters;
 
     private Enemy _enemyPos;
@@ -53,11 +54,22 @@ public class ChickenAttack : AttackAction
     public void EnhanceDamage()
     {
         _chickenParameters.Damage += 10;
-
         DamageRefresh();
         Debug.Log("damage enhanced");
+        
+        // Update cost 
+        _enhanceDamageParameters.Cost = _enhanceDamageParameters._baseCost ;
     }
 
+    public void EnhanceAttackSpeed()
+    {
+        _chickenParameters.AttackSpeed = _chickenParameters.BaseAttackSpeed * Mathf.Pow(0.95f,_enhanceAttackSpeedParameters.Level);
+        AttackSpeedRefresh();
+        //Update cost
+        _enhanceAttackSpeedParameters.Cost = _enhanceAttackSpeedParameters._baseCost * Mathf.Pow(1.25f,_enhanceAttackSpeedParameters.Level);
+    }
+    
+    
     private void CreateOrInitializeBullet(Bullet bullet, bool onlyInitialize)
     {
         Bullet createdBullet;
@@ -106,4 +118,12 @@ public class ChickenAttack : AttackAction
         _damage.NumberDamage = _chickenParameters.Damage;
        
     }
+
+    public void AttackSpeedRefresh()
+    {
+        _enhanceAttackSpeedParameters.Value = _chickenParameters.AttackSpeed;
+        CancelInvoke(nameof(Attack));
+        InvokeRepeating(nameof(Attack), _chickenParameters.AttackSpeed, _chickenParameters.AttackSpeed);
+    }
+    
 }

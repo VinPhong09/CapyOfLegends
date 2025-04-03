@@ -50,19 +50,19 @@ public class CharacterParametersController : MonoBehaviour
     public void RestartLevelOfParameters(){
         foreach (EnhanceElementParameters enhancedParameters in ChickenEnhElementsList0){
             enhancedParameters.Level = 1;
-            //enhancedParameters.Cost = enhancedParameters.BaseCost;
+            enhancedParameters.Cost = enhancedParameters.BaseCost;
         }
         foreach (EnhanceElementParameters enhancedParameters in ChickenEnhElementsList1){
             enhancedParameters.Level = 1;
-            //enhancedParameters.Cost = enhancedParameters.BaseCost;
+            enhancedParameters.Cost = enhancedParameters.BaseCost;
         }
         foreach (EnhanceElementParameters enhancedParameters in ChickenEnhElementsList2){
             enhancedParameters.Level = 1;
-            //enhancedParameters.Cost = enhancedParameters.BaseCost;
+            enhancedParameters.Cost = enhancedParameters.BaseCost;
         }
         foreach (EnhanceElementParameters enhancedParameters in ChickenEnhElementsList3){
             enhancedParameters.Level = 1;
-            //enhancedParameters.Cost = enhancedParameters.BaseCost;
+            enhancedParameters.Cost = enhancedParameters.BaseCost;
         }
     }
 
@@ -86,7 +86,7 @@ public class CharacterParametersController : MonoBehaviour
         chickenAttack1.DamageRefresh();
         chickenAttack2.DamageRefresh();
         chickenAttack3.DamageRefresh();
-        //chickenAttack4.DamageRefresh();
+        // chickenAttack4.DamageRefresh();
     }
 
 }

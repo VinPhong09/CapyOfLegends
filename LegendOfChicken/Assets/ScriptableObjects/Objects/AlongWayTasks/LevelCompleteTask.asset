@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: LevelCompleteTask
   m_EditorClassIdentifier: 
   _text: Complete Level
-  _rewardAmount: 10
+  _rewardAmount: 100
   _goal: 1
   taskType: 1
   _rewardCurrency: {fileID: 11400000, guid: 2cb7dbe3a31f4b74d8b3a277dd7602ea, type: 2}

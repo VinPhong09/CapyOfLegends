@@ -77,8 +77,12 @@ public class Chicken : MonoBehaviour, IPointerClickHandler, IGetDamagable
 
     public void OnEnhanceHealth()
     {
-        _chickenParams.Health += 10;
+        _chickenParams.Health = _enhanceElementParameters.Value + (25 * _enhanceElementParameters.Level);
 
         _enhanceElementParameters.Value = _chickenParams.Health;
+        
+        //Update Cost
+        
+        _enhanceElementParameters.Cost = (10 * _enhanceElementParameters.Level);
     }
 }

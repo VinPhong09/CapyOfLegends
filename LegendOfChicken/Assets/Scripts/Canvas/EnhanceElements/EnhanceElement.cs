@@ -86,10 +86,10 @@ public class EnhanceElement : MonoBehaviour
     {
         //if(CoinsView.Instance)
         CurrencyView.Instance.TrySpendCoins(Mathf.CeilToInt(_enhanceElementParameters.Cost), () => Enhanced?.Invoke(), () => { print("enhanced failed"); });
-
+        
         //Enhanced?.Invoke();
     }
-
+    
     private void UpdateViewData()
     {
         _iconImg.sprite = _enhanceElementParameters.Icon;

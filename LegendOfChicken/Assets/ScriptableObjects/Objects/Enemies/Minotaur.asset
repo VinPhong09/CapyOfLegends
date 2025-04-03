@@ -13,16 +13,16 @@ MonoBehaviour:
   m_Name: Minotaur
   m_EditorClassIdentifier: 
   Name: 
-  Health: 50
-  Damage: 10
+  Health: 200
+  Damage: 1
   AttackSpeed: 1
   CriticalHitChance: 20
   CriticalHitDamage: 80
   HealthRecovery: 1
   DoubleHitChance: 1
   TripleHitChance: 1
-  BaseHealth: 200
-  BaseDamage: 10
+  BaseHealth: 50
+  BaseDamage: 1
   BaseAttackSpeed: 1
   BaseCriticalHitChance: 20
   BaseCriticalHitDamage: 80
